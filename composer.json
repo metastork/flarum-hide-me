@@ -1,6 +1,6 @@
 {
-    "name": "dotronglong/flarum-hide-me",
-    "description": "Allow to hide real author's identity",
+    "name": "metastork/flarum-deeply-anon",
+    "description": "Completely hide discussion author's identity",
     "keywords": [
         "extension",
         "flarum",
@@ -23,9 +23,9 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Hide Me",
+            "title": "Deeply Anon",
             "icon": {
-                "name": "fas fa-user-shield",
+                "name": "fas fa-user-secret",
                 "backgroundColor": "#e74c3c",
                 "color": "#fff"
             }
